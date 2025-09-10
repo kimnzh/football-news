@@ -33,8 +33,8 @@ ALLOWED_HOSTS = ["localhost", "127.0.0.1", "muhamad-hakim41-footballnews.pbp.cs.
 
 CSRF_TRUSTED_ORIGINS = [
     "http://localhost:8000",
-    "http://muhamad-hakim41-football-news.pbp.cs.ui.ac.id",
-    "https://muhamad-hakim41-football-news.pbp.cs.ui.ac.id",
+    "http://muhamad-hakim41-footballnews.pbp.cs.ui.ac.id",
+    "https://muhamad-hakim41-footballnews.pbp.cs.ui.ac.id",
 ]
 
 # Application definition
